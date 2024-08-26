@@ -50,3 +50,23 @@ GET /accounts: Retrieve a list of all accounts.
 # Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+
+
+![image](https://github.com/user-attachments/assets/3d098508-494b-437c-9596-2598d4817699)
+
+![image](https://github.com/user-attachments/assets/bc7a3ec7-fe2c-4b5a-bc12-da8d121283fe)
+
+![image](https://github.com/user-attachments/assets/a2117580-020a-46e6-ac29-d45917557ec2)
+
+![image](https://github.com/user-attachments/assets/d7966150-f24f-40e1-a9f0-22c4a07a8c3b)
+
+![image](https://github.com/user-attachments/assets/490e95ba-c23a-44a8-9166-801064b8b395)
+
+![image](https://github.com/user-attachments/assets/afc9ece5-8644-4dc8-9c8e-adc87424345a)
+
+
+
+
+
+
